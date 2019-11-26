@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Soluty TI",
+    "description": "",
+    "home_page_url": "https://raifonsa.github.io/gh-pages",
+    "feed_url": "https://raifonsa.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Raimundo Fonseca"
+    },
+    "items": [
+        {
+            "id": "https://raifonsa.github.io/gh-pages/first.html",
+            "url": "https://raifonsa.github.io/gh-pages/first.html",
+            "title": "Teste de post site Publii, Soluty TI",
+            "author": {
+                "name": "Raimundo Fonseca"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-26T11:35:56-02:00",
+            "date_modified": "2019-11-26T11:36:30-02:00"
+        }
+    ]
+}
